@@ -7,3 +7,7 @@ const msg=(user,token)=>{
 function generatorFunc(users,tir){
      return true 
 }
+
+const user=(token)=>{
+    return true 
+}
